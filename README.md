@@ -139,3 +139,7 @@ to the downloaded sources and to any binary built from them, so keep that notice
 redistribute `tgopus.lib` or programs that contain it. Opus is covered by royalty-free
 patent grants from its contributors (see the notice in `COPYING.opus`). GnuPoc and the CSL
 toolchain belong to their authors (see the toolchain repo).
+
+## Part of the RetroArchive ecosystem
+
+Extracted from [RetroTele](https://github.com/manojanasuri16/RetroTele). All apps, guides and open-source repos are listed on [RetroArchive](https://manojanasuri16.github.io/RetroArchive/) (see the [Open source page](https://manojanasuri16.github.io/RetroArchive/opensource/)); the build toolchain is [symbian-s60v3-toolchain](https://github.com/manojanasuri16/symbian-s60v3-toolchain).
